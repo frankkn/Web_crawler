@@ -1,3 +1,5 @@
+# 抓Dcard清華大學版的文章標題
+
 import urllib.request as req
 url = "https://www.dcard.tw/f/nthu"
 request = req.Request(url, headers = {
