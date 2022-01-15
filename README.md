@@ -1,8 +1,8 @@
-#🗂️Web_crawler
+# 🗂️Web_crawler
 ---
 This is my first python code. Try to grab some interesting article topic from medium.com.
 
-##Usage
+## Usage
 ---
 
 🚀 Test 
