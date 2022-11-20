@@ -5,7 +5,7 @@ This is my first python code. Try to grab some interesting articles topic from m
 🚀 Test 
 ```
 $ cd <...>/python
-$ python3 crawler-ajax-data.py.py
+$ python3 crawler-ajax-data.py
 ```
 
 🏎️Sample output: (It will create a "medium.txt" in local directory. Below is the content inside.)
